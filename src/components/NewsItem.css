@@ -1,0 +1,30 @@
+.card-body {
+  font-family: monospace;
+}
+.img{
+  opacity: 100% !important;
+}
+.despo {
+  opacity: 70%;
+}
+.despo:hover {
+  color: rgb(255, 255, 255) !important;
+  opacity: 150% !important;
+}
+.time {
+  opacity: 70%;
+  font-weight: 500;
+  font-size: large;
+}
+.time:hover {
+  color: rgb(255, 255, 255) !important;
+  opacity: 150% !important;
+}
+.tlt {
+  opacity: 70%;
+  font-weight: 500;
+}
+.tlt:hover {
+  color: rgb(255, 255, 255) !important;
+  opacity: 150% !important;
+}
